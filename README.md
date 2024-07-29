@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vasudev</h1>
 <h3 align="center">A Passionate Python Developer,Currently Studyimg in TKR Engineeering College</h3>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
 
